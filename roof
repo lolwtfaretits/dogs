@@ -1746,4 +1746,4 @@ function library:CreateWindow(name, size, hidebutton)
     end
 
     return window
-end 
+end
